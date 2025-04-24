@@ -19,7 +19,7 @@ Communicate results through visuals, metrics, and a team presentation
 
 Source: NYC Taxi & Limousine Commission (TLC)
 File Used: yellow_tripdata_2025-01.parquet
-Size: ~5.4 million records
+Size: 3.4 million records
 Key Variables: fare_amount, trip_distance, pickup/dropoff timestamps, passenger_count, tip_amount, payment_type
 
 Key Insights:
