@@ -25,5 +25,5 @@ Key Variables: fare_amount, trip_distance, pickup/dropoff timestamps, passenger_
 Key Insights:
 Most common pickup locations were near transit hubs
 Credit card was the dominant payment method
-Average fare: ~$17, Average tip: ~2.3%
+Average fare: $17, Average tip: 2.3%
 Visualizations revealed dense clusters in Midtown and Downtown Manhattan
