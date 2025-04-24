@@ -4,8 +4,8 @@ This project analyzes over 3.4 million Yellow Taxi trips in New York City from J
 
 Team Members:
 
-Michael Mathews
-Khana Desulme
+Michael Mathews,
+Khana Desulme,
 Trevor Bogert
 
 Objectives:
