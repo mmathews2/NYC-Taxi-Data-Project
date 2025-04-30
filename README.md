@@ -1,4 +1,6 @@
 # NYC-Taxi-Data-Project
+
+Version 2: Final Code NYC Taxi Data Jan 2025(3).ipynb
 Final project exploring the NYC taxi data from January of 2025 using Data Bricks. 
 This project analyzes over 3.4 million Yellow Taxi trips in New York City from January 2025 using Apache Spark in the Databricks Community Edition environment. The goal is to uncover insights into rider behavior, tipping trends, trip durations, and fare patterns while applying scalable data processing and machine learning techniques.
 
